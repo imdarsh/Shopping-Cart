@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 40000,
+        "imgUrl": "imgs/laptop.webp"
+    },
+    {
+        "id": 2,
+        "name": "Camera",
+        "price": 90000,
+        "imgUrl": "imgs/camera.webp"
+    },
+    {
+        "id": 3,
+        "name": "SmartPhone",
+        "price": 38000,
+        "imgUrl": "imgs/mobile.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Watch",
+        "price": 4500,
+        "imgUrl": "imgs/watch.jpg"
+    }
+]
